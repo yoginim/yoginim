@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am Masters student of Statistics. Passionate about all that I do, and I strive to help others make the right decisions based on data driven analysis and insights. I'm always looking for opportunities to improve and challenge myself, and grow my knowledge and experience. 
+I am Masters student of Statistics. Currently I am doing an internship in Data Science. Passionate about all that I do, and I strive to help others make the right decisions based on data driven analysis and insights. I'm always looking for opportunities to improve and challenge myself, and grow my knowledge and experience. 
 I'm looking to collaborate on Data Analytics, Data Science.
 
 - Programing Languages : Python, R, SQL, SAS
-- Visualization Tools : Tableau, SPSS
+- Softwares : Tableau, SPSS, MySQL
 - Framework : Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, OpenCV, Pyspark, Hadoop
 
 You can reach me through:
