@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Masters student of Statistics. Currently I am a Data Science Intern at Avishkar Tech Solutions. Passionate about data, data analysis and data visualisations. I strive to help others make the right decisions based on data driven analysis and insights. I'm always looking for opportunities to improve and challenge myself, and grow my knowledge and experience. 
+I am Masters student of Statistics. Currently I am a Data Science intern at Avishkar Tech Solutions. Passionate about data, data analysis and data visualisations, I strive to help others make the right decisions based on data driven analysis and insights. I'm always looking for opportunities to improve and challenge myself, and grow my knowledge and experience. 
 I'm looking to collaborate on Data Analytics, Data Science.
 
 - Programing Languages : Python, R, SQL, SAS
