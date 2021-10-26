@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am Masters student of Statistics. Passionate about data, data analysis and data visualisations, I strive to help others make the right decisions based on data driven analysis and insights. I'm always looking for opportunities to improve and challenge myself, and grow my knowledge and experience. 
+I have completed my masters in Statistics. Passionate about data, data analysis and data visualisations, I strive to help others make the right decisions based on data driven analysis and insights. I'm always looking for opportunities to improve and challenge myself, and grow my knowledge and experience. 
 I'm looking to collaborate on Data Analytics, Data Science.
 
 - Programing Languages : Python, R, SQL, SAS
-- Softwares : Tableau, SPSS, MySQL
+- Softwares : Tableau, SPSS, MySQL, Power BI
 - Framework : Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, OpenCV, Pyspark, Hadoop
 
 You can reach me through:
