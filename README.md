@@ -12,8 +12,6 @@ You can reach me through:
 * Linkdin : https://www.linkedin.com/in/yogini-mahajan/
 
 
-Please take a look at my Tableau Public profile: https://public.tableau.com/profile/yogini.mahajan#!/?newProfile=&activeTab=0
-
 <!--
 **yoginim/yoginim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
