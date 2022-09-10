@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I have completed my masters in Statistics. Passionate about data, data analysis and data visualisations, I strive to help others make the right decisions based on data driven analysis and insights. I'm always looking for opportunities to improve and challenge myself, and grow my knowledge and experience. 
-I'm looking to collaborate on Data Analytics, Data Science.
+Passionate about data, data analysis and data visualisations, I strive to help others make the right decisions based on data driven analysis and insights. I'm always looking for opportunities to improve and challenge myself, and grow my knowledge and experience. 
+I'm open to collaborate on Data Analytics, Data Science.
 
 - Programing Languages : Python, R, SQL, SAS
 - Softwares : Tableau, SPSS, MySQL, Power BI
@@ -10,7 +10,7 @@ I'm looking to collaborate on Data Analytics, Data Science.
 You can reach me through:
 * Email : mahajan.yogini026@gmail.com
 * Linkdin : https://www.linkedin.com/in/yogini-mahajan/
-* Twitter : https://twitter.com/YoginiMahajan1
+
 
 Please take a look at my Tableau Public profile: https://public.tableau.com/profile/yogini.mahajan#!/?newProfile=&activeTab=0
 
